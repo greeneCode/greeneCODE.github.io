@@ -51,11 +51,18 @@ hr {
 .section-boxes .row {
     margin-bottom: 0 !important;
 }
-
+.card-title {
+    font-size: 1.5em !important;
+}
+.card p {
+    font-size: 1.2em;
+}
 .card-action {
     padding-bottom: 0 !important;
 }
-
+.card i {
+    color: #00c853;
+}
 #contact-icon {
     color: #00c853;
 }
